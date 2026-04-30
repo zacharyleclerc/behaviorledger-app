@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/zacharyleclerc/bcba-tracker/releases/download/v1.2.0/BehaviorLedger.exe",
-  "notes": "Behavior Ledger v1.2.0 — Major debugging, UI improvements, functionality."
+  "version": "1.3.0",
+  "url": "https://github.com/zacharyleclerc/behaviorledger-app/releases/download/v1.3.0/BehaviorLedger.exe",
+  "notes": "Behavior Ledger v1.3.0 — New repository, error codes."
 }
