@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "url": "https://github.com/zacharyleclerc/behaviorledger-app/releases/download/v1.4.0/BehaviorLedger.exe",
-  "notes": "Behavior Ledger v1.4.0 — Sync updates, subscription gltich fixed."
+  "version": "1.4.1",
+  "url": "https://github.com/zacharyleclerc/behaviorledger-app/releases/download/v1.4.1/BehaviorLedger.exe",
+  "notes": "Behavior Ledger v1.4.1 — Registration with invite code"
 }
