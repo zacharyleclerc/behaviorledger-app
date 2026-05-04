@@ -1,0 +1,149 @@
+BEHAVIOR LEDGER — END USER LICENSE AGREEMENT (EULA)
+
+Last updated: May 4, 2026
+
+IMPORTANT: READ THIS AGREEMENT CAREFULLY BEFORE DOWNLOADING, INSTALLING, OR
+USING BEHAVIOR LEDGER. BY DOWNLOADING, INSTALLING, OR USING THE SOFTWARE, YOU
+AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT
+DOWNLOAD, INSTALL, OR USE THE SOFTWARE.
+
+1. DEFINITIONS
+
+"Software" refers to the Behavior Ledger desktop application, including all
+updates, patches, and associated files distributed through this repository
+or behaviorledger.com.
+
+"Licensor" refers to Behavior Ledger, operated by Zachary Leclerc, based in
+Quebec, Canada.
+
+"User" or "You" refers to any individual or entity that downloads, installs,
+or uses the Software.
+
+"Subscription" refers to an active paid subscription or valid free trial
+obtained through the Software's registration process.
+
+2. GRANT OF LICENSE
+
+Subject to the terms of this Agreement and an active Subscription, the Licensor
+grants You a limited, non-exclusive, non-transferable, revocable license to:
+
+  (a) Download and install the Software on devices You own or control.
+  (b) Use the Software for its intended purpose of tracking supervised
+      fieldwork hours for BCBA and BCaBA certification.
+
+This license does not grant ownership of the Software. You are licensing the
+right to use it, not purchasing it.
+
+3. SUBSCRIPTION REQUIREMENT
+
+The Software requires an active Subscription to function beyond the initial
+free trial period. When a Subscription expires, is canceled, or is terminated,
+Your license to use the Software is suspended until a new Subscription is
+obtained. Your data is retained for 30 days after subscription cancellation.
+
+4. RESTRICTIONS
+
+You may NOT:
+
+  (a) Copy, modify, adapt, translate, or create derivative works of the
+      Software or any part thereof.
+  (b) Reverse engineer, decompile, disassemble, or attempt to derive the
+      source code of the Software.
+  (c) Redistribute, sublicense, rent, lease, lend, sell, or otherwise
+      transfer the Software or Your license to any third party.
+  (d) Remove, alter, or obscure any proprietary notices, labels, or
+      branding contained in the Software.
+  (e) Use the Software to develop a competing product or service.
+  (f) Circumvent, disable, or interfere with any license verification,
+      subscription validation, or security features of the Software.
+  (g) Use the Software for any unlawful purpose.
+
+5. INTELLECTUAL PROPERTY
+
+The Software, including all code, design, graphics, logos, icons, and
+documentation, is the exclusive property of the Licensor and is protected by
+Canadian and international copyright, trademark, and intellectual property
+laws. All rights not expressly granted in this Agreement are reserved by the
+Licensor.
+
+This repository is made publicly accessible solely for the purpose of
+distributing the Software installer to authorized users. Public availability
+does not constitute a release into the public domain, an open-source license,
+or a waiver of any intellectual property rights.
+
+6. DATA OWNERSHIP
+
+You own the data You enter into the Software, including fieldwork hours, log
+entries, and reports. The Licensor does not claim any rights to Your data.
+You may export or delete Your data at any time through the Software.
+
+7. PRIVACY
+
+The Software collects and processes data as described in the Privacy Policy
+available at behaviorledger.com. By using the Software, You consent to the
+collection and use of data as described therein.
+
+8. DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+THE LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE UNINTERRUPTED,
+ERROR-FREE, OR FREE OF HARMFUL COMPONENTS. THE LICENSOR IS NOT AFFILIATED
+WITH, ENDORSED BY, OR A SUBSTITUTE FOR THE BEHAVIOR ANALYST CERTIFICATION
+BOARD (BACB). USE OF THE SOFTWARE DOES NOT GUARANTEE CERTIFICATION ELIGIBILITY
+OR COMPLIANCE WITH BACB REQUIREMENTS.
+
+9. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR
+PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF DATA, LOSS OF REVENUE,
+OR CERTIFICATION DECISIONS, ARISING OUT OF OR RELATED TO YOUR USE OF THE
+SOFTWARE, REGARDLESS OF THE THEORY OF LIABILITY.
+
+THE LICENSOR'S TOTAL AGGREGATE LIABILITY SHALL NOT EXCEED THE AMOUNT YOU PAID
+FOR THE SOFTWARE IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
+
+10. TERMINATION
+
+This license is effective until terminated. It terminates automatically if:
+
+  (a) Your Subscription expires or is canceled.
+  (b) You violate any term of this Agreement.
+  (c) The Licensor discontinues the Software.
+
+Upon termination, You must cease all use of the Software and delete all copies
+in Your possession. Sections 4, 5, 8, 9, and 11 survive termination.
+
+11. GOVERNING LAW
+
+This Agreement is governed by and construed in accordance with the laws of the
+Province of Quebec, Canada, without regard to conflict of law principles. Any
+disputes arising under this Agreement shall be subject to the exclusive
+jurisdiction of the courts of Quebec, Canada.
+
+12. UPDATES AND MODIFICATIONS
+
+The Licensor may update the Software and this Agreement from time to time.
+Continued use of the Software after changes to this Agreement constitutes
+acceptance of the updated terms. Material changes will be communicated through
+the Software or the Licensor's website.
+
+13. ENTIRE AGREEMENT
+
+This Agreement, together with the Terms of Service and Privacy Policy available
+at behaviorledger.com, constitutes the entire agreement between You and the
+Licensor regarding the Software and supersedes all prior agreements and
+understandings.
+
+14. CONTACT
+
+For questions about this license, contact:
+
+  Behavior Ledger
+  Email: behaviorledger@outlook.com
+  Website: behaviorledger.com
+
+Copyright (c) 2026 Behavior Ledger. All rights reserved.
