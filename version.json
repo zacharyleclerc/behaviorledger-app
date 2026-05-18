@@ -1,5 +1,6 @@
 {
-  "version": "1.6.1",
-  "url": "https://github.com/zacharyleclerc/behaviorledger-app/releases/download/v1.6.1/BehaviorLedger.exe",
-  "notes": "Behavior Ledger v1.6.1 — Installer Test"
+  "version": "1.7.0",
+  "url": "https://github.com/zacharyleclerc/behaviorledger-app/releases/download/v1.7.0/BehaviorLedger.exe",
+  "notes": "Behavior Ledger v1.7.0 — Subscription cancel update"
 }
+
